@@ -12,7 +12,6 @@ const Header = (props) => (
         </div>
 );
 
-//default props(put after declaring functinal/class )
 Header.defaultProps = {
     title: 'Indecision'
 };
